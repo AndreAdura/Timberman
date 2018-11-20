@@ -1,0 +1,14 @@
+﻿  HelloSFML.cpp
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(293): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(327): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(403): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(407): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(436): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(440): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(467): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(471): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(498): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(502): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\andre.adura\documents\visual studio 2017\andreprojects\hellosfml\hellosfml\hellosfml.cpp(533): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  HelloSFML.vcxproj -> C:\Users\Andre.Adura\Documents\Visual Studio 2017\AndreProjects\HelloSFML\Debug\HelloSFML.exe
+  HelloSFML.vcxproj -> C:\Users\Andre.Adura\Documents\Visual Studio 2017\AndreProjects\HelloSFML\Debug\HelloSFML.pdb (Partial PDB)
